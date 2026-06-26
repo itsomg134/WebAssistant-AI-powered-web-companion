@@ -12,17 +12,17 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 **Smart chat interface** with contextual responses (keyword-based logic)
-- 🎨 **Glassmorphism design** — modern, clean, and visually appealing
-- 📱 **Fully responsive** — works flawlessly on desktop, tablet, and mobile
-- ⚡ **Quick action buttons** for instant questions (Trends, CSS Grid, SEO, HTTP vs HTTPS)
-- ⌨️ **Keyboard shortcuts** — hit `Enter` to send messages
-- 🕒 **Timestamped messages** for both user and assistant
-- 🔒 **Privacy-first** — no data storage, no external tracking
-- 🎭 **Beautiful animations** — smooth transitions and micro-interactions
-- 🧩 **Extensible** — easily swap the response logic to call any LLM API (OpenAI, Claude, Gemini, etc.)
+-  **Smart chat interface** with contextual responses (keyword-based logic)
+-  **Glassmorphism design** — modern, clean, and visually appealing
+-  **Fully responsive** — works flawlessly on desktop, tablet, and mobile
+-  **Quick action buttons** for instant questions (Trends, CSS Grid, SEO, HTTP vs HTTPS)
+-  **Keyboard shortcuts** — hit `Enter` to send messages
+-  **Timestamped messages** for both user and assistant
+-  **Privacy-first** — no data storage, no external tracking
+-  **Beautiful animations** — smooth transitions and micro-interactions
+-  **Extensible** — easily swap the response logic to call any LLM API (OpenAI, Claude, Gemini, etc.)
 
 ---
 
