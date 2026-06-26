@@ -114,7 +114,7 @@ webassistant/
 
 ---
 
-## 🔌 Integration with Real AI APIs
+##  Integration with Real AI APIs
 
 To connect this UI to a real LLM (OpenAI, Claude, Gemini, etc.):
 
