@@ -1,4 +1,4 @@
-# 🤖 WebAssistant · AI-powered web companion
+# WebAssistant · AI-powered web companion
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=vercel)](https://your-demo-link.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
