@@ -26,13 +26,7 @@
 
 ---
 
-## 🚀 Live Demo
-
-Check out the live demo here: [**WebAssistant Live**](https://your-demo-link.vercel.app)
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -45,7 +39,7 @@ Check out the live demo here: [**WebAssistant Live**](https://your-demo-link.ver
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
@@ -71,9 +65,9 @@ That's it! No installation, no dependencies.
 
 ---
 
-## 🧩 Customization
+## Customization
 
-### 🤖 Change the Assistant's Personality
+### Change the Assistant's Personality
 Edit the `getAssistantReply()` function in the `<script>` section (around line 240). You can add more keywords, integrate with an external API, or even replace it with a call to OpenAI's GPT.
 
 ```javascript
@@ -86,7 +80,7 @@ function getAssistantReply(userText) {
 }
 ```
 
-### 🎨 Styling
+### Styling
 Modify the CSS variables in the `<style>` section to match your brand colors.
 
 ```css
