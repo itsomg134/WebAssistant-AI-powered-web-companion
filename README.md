@@ -91,7 +91,7 @@ Modify the CSS variables in the `<style>` section to match your brand colors.
 }
 ```
 
-### ➕ Add Quick Actions
+### Add Quick Actions
 Add new buttons in the `.quick-actions` div:
 
 ```html
@@ -102,7 +102,7 @@ Add new buttons in the `.quick-actions` div:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 webassistant/
