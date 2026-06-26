@@ -8,7 +8,7 @@
 
 > **A sleek, responsive, and interactive AI assistant interface** — built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no dependencies. Just a smart chat UI ready to integrate with your backend or use as a standalone demo.
 
-![WebAssistant Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
+<img width="1860" height="937" alt="image" src="https://github.com/user-attachments/assets/f3e17a05-3520-4783-ac2c-61d7d1c438b2" />
 
 ---
 
