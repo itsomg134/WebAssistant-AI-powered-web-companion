@@ -164,19 +164,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - Glassmorphism design trend for the aesthetic
 
 ---
-
-## 📬 Contact
-
-- **Your Name** — [@yourtwitter](https://twitter.com/yourtwitter) — email@example.com
-- Project Link: [https://github.com/yourusername/webassistant](https://github.com/yourusername/webassistant)
-
----
-
-## ⭐ Show Your Support
-
-If you found this helpful, please give it a ⭐ on GitHub — it helps a lot!
-
----
-
-**Built with ❤️ for the developer community.**
-```
