@@ -151,13 +151,13 @@ Please ensure your code follows the existing style and is well-documented.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for the beautiful icons
 - The open-source community for inspiration
